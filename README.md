@@ -24,4 +24,4 @@ I'm a Java Full Stack enthusiast with comprehensive training, bringing a solid f
 
 ### My Portfolio
 
-- https://rajesh-m98.github.io/My_Portfolio/Rajesh/index.html
+- https://rajesh-m98.github.io/Portfolio_Rajesh-M/
