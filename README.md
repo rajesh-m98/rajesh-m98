@@ -49,72 +49,6 @@ I specialize in **React.js, Flutter, and backend API integration**, with a stron
 - Firebase
 
 ---
-
-## 💼 Professional Experience
-
-### 🏢 **The Generic Technologies Pvt Ltd**
-**Lead Front-End / Flutter App Developer**  
-📅 *July 2024 – Present*
-
-- Integrated secure authentication systems (OTP, SSO, authenticator apps)
-- Developed and consumed **REST APIs** for payments, chat, and core app modules
-- Implemented **Redux (React + TypeScript)** for complex state management
-- Built reusable UI component libraries, improving development speed by 30%
-- Used **WebSocket** for real-time chat and live interactions
-- Collaborated with backend teams to define API contracts and improve performance
-
----
-
-### 🏢 **Roostr.in**
-**React.js Developer**  
-📅 *March 2024 – July 2024*
-
-- Worked on **India’s first live-streaming platform for traditional rural games**
-- Built responsive landing pages using React.js, Bootstrap, HTML, and CSS
-- Implemented **mobile number + password authentication**
-- Integrated real-time chat using **WebSocket**
-- Developed live streaming & replay features for cross-device compatibility
-
-🔗 https://roostr.in
-
----
-
-### 🏢 **AKV Technologies Pvt Ltd**
-**React.js Developer Intern**  
-📅 *Jan 2024 – March 2024*
-
-- Built **DeliAura**, an e-commerce platform (similar to Licious)
-- Implemented Firebase Authentication & Realtime Database
-- Integrated Google Maps API for delivery location tracking
-- Worked on frontend-backend API integration
-- Ensured real-time data updates and smooth UI interactions
-
-🔗 https://github.com/rajesh-m98
-
----
-
-## 🎓 Education
-
-- 🎓 **B.E. Electrical & Electronics Engineering**  
-  *Mepco Schlenk Engineering College* (2016 – 2020)  
-  **GPA:** 7.5 / 10
-
-- 🏫 **Bio-Maths**  
-  *Noble Matric Hr. Sec. School* (2014 – 2016)  
-  **Percentage:** 94%
-
----
-
-## 📜 Certifications & Training
-
-- **Java Full Stack Web Development** – JSpiders, Bangalore  
-  *(April 2023 – Dec 2023)*  
-  - Core Java, Advanced Java, JDBC
-  - Spring & Hibernate
-  - SQL, HTML, CSS, JavaScript, Bootstrap
-
----
-
 ## 🚀 What I Can Do
 
 ✔️ Build responsive web applications using React.js  
@@ -130,7 +64,6 @@ I specialize in **React.js, Flutter, and backend API integration**, with a stron
 
 - 🌐 **Portfolio:** https://rajesh-m98.github.io/Portfolio_Rajesh-M/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rajeshm1998
-- 🧑‍💻 **GitHub:** https://github.com/rajesh-m98
 
 ---
 
