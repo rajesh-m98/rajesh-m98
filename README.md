@@ -1,18 +1,33 @@
 # Hi there, I'm Rajesh M 👋  
-### Full Stack Web & Flutter Developer | React.js | Java | API Integration
+### Frontend-Focused Full Stack Developer | React.js | TypeScript | Flutter | REST APIs
 
-🚀 Passionate developer with hands-on industry experience in building **scalable web and mobile applications**.  
-I specialize in **React.js, Flutter, and backend API integration**, with a strong foundation in **Java Full Stack development**.
+🚀 Frontend-focused Full Stack Developer with 3+ years of professional experience building scalable and high-performance web and mobile applications.
+
+I specialize in React.js, TypeScript, Flutter, and secure API integration, with hands-on experience in real-time systems and authentication workflows.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Experience
 
-- 💼 **Lead Front-End / Flutter App Developer** at **The Generic Technologies Pvt Ltd** (July 2024 – Present)
-- 🌱 Strong background in **Java Full Stack Development** (JSpiders, Bangalore)
-- 🔧 Experienced in building **REST APIs**, authentication flows, and CRUD operations
-- 🎯 Focused on **clean UI, reusable components, and scalable architecture**
-- 🤝 Open to collaboration on **Web, Mobile, and Full Stack projects**
+### 💼 Oraxiz India Private Limited  
+**Frontend Engineer**  
+(Aug 2025 – Present)
+
+- Developed scalable and responsive web applications using React.js and TypeScript  
+- Integrated RESTful APIs with secure JWT-based authentication  
+- Improved performance using memoization and code-splitting (reduced load time by 25%)  
+- Collaborated in Agile sprints to deliver production-ready features  
+
+---
+
+### 💼 The Generic Technologies Pvt Ltd  
+**Front-end / Flutter App Developer**  
+(July 2023 – July 2025)
+
+- Built and maintained production-level React.js applications using Redux and TypeScript  
+- Implemented secure authentication workflows (OTP, SSO, JWT)  
+- Integrated WebSocket for real-time communication features  
+- Developed cross-platform mobile applications using Flutter with REST API & Firebase  
 
 ---
 
@@ -20,59 +35,59 @@ I specialize in **React.js, Flutter, and backend API integration**, with a stron
 
 ### 🔹 Frontend
 - React.js (JavaScript & TypeScript)
-- Redux for state management
-- HTML5, CSS3, Bootstrap, Tailwind CSS
-- Responsive & mobile-first UI design
+- Redux, Context API
+- HTML5, CSS3, Tailwind CSS, Bootstrap
+- Responsive & Mobile-First Design
 
-### 🔹 Backend
-- Java (Core & Advanced)
-- Spring Framework (Basics)
-- REST API development
-- Authentication APIs (Login, OTP, CRUD operations)
-- Backend testing using Postman
+### 🔹 Backend (Project-Level)
+- Node.js, Express.js
+- MongoDB
+- RESTful APIs
+- JWT Authentication
+- API Testing (Postman)
 
 ### 🔹 Mobile Development
 - Flutter & Dart
-- Provider for state management
-- API integration & reusable widgets
+- Provider (State Management)
+- Firebase (Auth & Firestore)
+- REST API Integration
 
-### 🔹 Databases
-- MySQL
-- Oracle Database
-- SQL
+### 🔹 Real-Time Communication
+- WebSocket
 
-### 🔹 Tools & IDEs
-- Visual Studio Code
-- Eclipse
+### 🔹 Tools
 - Git & GitHub
+- VS Code
+- Vite
 - Postman
 - Firebase
 
 ---
-## 🚀 What I Can Do
 
-✔️ Build responsive web applications using React.js  
-✔️ Develop **backend APIs** (Login, Authentication, CRUD operations)  
-✔️ Integrate REST APIs into Web & Mobile apps  
-✔️ Create Flutter apps with clean architecture  
-✔️ Handle real-time features using WebSocket  
-✔️ Work with databases and backend services  
+## 🚀 Key Contributions
+
+✔️ Developed reusable component-based React architecture  
+✔️ Implemented secure authentication systems  
+✔️ Built real-time WebSocket communication features  
+✔️ Delivered cross-platform Flutter applications  
+✔️ Optimized frontend performance for production systems  
 
 ---
 
 ## 🔗 Portfolio & Profiles
 
-- 🌐 **Portfolio:** https://rajesh-m98.github.io/Portfolio_Rajesh-M/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rajeshm1998
+🌐 Portfolio: https://rajesh-m98.github.io/Portfolio/  
+💼 LinkedIn: https://www.linkedin.com/in/rajeshm1998  
+💻 GitHub: https://github.com/rajesh-m98  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 Email: **rajeshr13455@gmail.com**  
-📱 Phone: **+91 6381005442**  
-📍 Location: **Bangalore, Karnataka**
+📧 rajeshr13455@gmail.com  
+📱 +91 6381005442  
+📍 Bengaluru, Karnataka  
 
 ---
 
-⭐ *“Always learning, always building.”*  
+⭐ Always learning. Always building.
