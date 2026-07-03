@@ -88,15 +88,14 @@ Associate Technical Consultant
 
 ## 🚀 Key Contributions
 
-✔️ Optimized frontend performance for production systems
-✔️ Developed enterprise-grade mobile applications using Flutter and React Native
-✔️ Built reusable React.js component architecture
-✔️ Developed and integrated secure REST APIs
-✔️ Worked on ASP.NET enterprise applications
-✔️ Implemented authentication and authorization workflows
-✔️ Integrated SAP Business One with business applications
-✔️ Optimized application performance and user experience
-✔️ Delivered scalable web and mobile solutions for production environments
+- Developed enterprise-grade mobile applications using Flutter and React Native
+- Built reusable React.js component architecture
+- Developed and integrated secure REST APIs
+- Worked on ASP.NET enterprise applications
+- Implemented authentication and authorization workflows
+- Integrated SAP Business One with business applications
+- Optimized application performance and user experience
+- Delivered scalable web and mobile solutions for production environments
 
 ---
 
