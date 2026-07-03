@@ -1,17 +1,32 @@
 # Hi there, I'm Rajesh M 👋  
-### Frontend-Focused Full Stack Developer | React.js | TypeScript | Flutter | REST APIs
+Associate Technical Consultant | Flutter | React Native | React.js | .NET | TypeScript
 
-🚀 Frontend-focused Full Stack Developer with 3+ years of professional experience building scalable and high-performance web and mobile applications.
+🚀 Frontend-focused Full Stack Developer with 3+ years of professional experience building scalable web, mobile, and enterprise applications.
 
-I specialize in React.js, TypeScript, Flutter, and secure API integration, with hands-on experience in real-time systems and authentication workflows.
+Currently working as an Associate Technical Consultant at Techative Solutions Private Limited, where I develop enterprise-grade solutions using Flutter, React Native, React.js, ASP.NET (.NET). I enjoy building high-performance applications, integrating secure APIs, and solving real-world business challenges.
 
 ---
 
 ## 👨‍💻 Professional Experience
 
+💼 Techative Solutions Private Limited
+
+Associate Technical Consultant
+(Mar 2026 – Present)
+
+- Develop enterprise mobile applications using Flutter and React Native
+- Build responsive web applications using React.js and TypeScript
+- Develop and maintain ASP.NET (.NET) applications and REST APIs
+- Work with SAP Business One integrations and enterprise business workflows
+- Design and consume secure RESTful APIs with authentication and authorization
+- Collaborate with cross-functional teams to deliver production-ready business solutions
+- Debug, optimize, and maintain scalable applications across multiple platforms
+
+---
+
 ### 💼 Oraxiz India Private Limited  
 **Frontend Engineer**  
-(Aug 2025 – Present)
+(Aug 2025 – Feb 2026)
 
 - Developed scalable and responsive web applications using React.js and TypeScript  
 - Integrated RESTful APIs with secure JWT-based authentication  
@@ -40,11 +55,17 @@ I specialize in React.js, TypeScript, Flutter, and secure API integration, with 
 - Responsive & Mobile-First Design
 
 ### 🔹 Backend (Project-Level)
-- Node.js, Express.js
-- MongoDB
+- ASP.NET (.NET)
+- C#
+- Node.js
+- Express.js
 - RESTful APIs
 - JWT Authentication
 - API Testing (Postman)
+
+### 🔹 Database
+- SQL Server
+- MongoDB
 
 ### 🔹 Mobile Development
 - Flutter & Dart
@@ -58,6 +79,7 @@ I specialize in React.js, TypeScript, Flutter, and secure API integration, with 
 ### 🔹 Tools
 - Git & GitHub
 - VS Code
+- Visual Studio
 - Vite
 - Postman
 - Firebase
@@ -66,11 +88,15 @@ I specialize in React.js, TypeScript, Flutter, and secure API integration, with 
 
 ## 🚀 Key Contributions
 
-✔️ Developed reusable component-based React architecture  
-✔️ Implemented secure authentication systems  
-✔️ Built real-time WebSocket communication features  
-✔️ Delivered cross-platform Flutter applications  
 ✔️ Optimized frontend performance for production systems  
+✔️ Developed enterprise-grade mobile applications using Flutter and React Native
+✔️ Built reusable React.js component architecture
+✔️ Developed and integrated secure REST APIs
+✔️ Worked on ASP.NET enterprise applications
+✔️ Implemented authentication and authorization workflows
+✔️ Integrated SAP Business One with business applications
+✔️ Optimized application performance and user experience
+✔️ Delivered scalable web and mobile solutions for production environments
 
 ---
 
@@ -90,4 +116,4 @@ I specialize in React.js, TypeScript, Flutter, and secure API integration, with 
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Passionate about building enterprise applications, continuously learning modern technologies, and solving complex business problems.
