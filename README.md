@@ -88,7 +88,7 @@ Associate Technical Consultant
 
 ## 🚀 Key Contributions
 
-✔️ Optimized frontend performance for production systems  
+✔️ Optimized frontend performance for production systems
 ✔️ Developed enterprise-grade mobile applications using Flutter and React Native
 ✔️ Built reusable React.js component architecture
 ✔️ Developed and integrated secure REST APIs
